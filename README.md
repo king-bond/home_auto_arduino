@@ -1,6 +1,7 @@
 # home_auto_arduino
 Home Automation Using Arduino, GSM and Relay Modules
 This project allows users to control home appliances using sms and doesn't need a internet conection or wifi connection to work.
+
 References: <br>
 Control Home Appliances Using #GSM module SIM 900A by sending an SMS:<br>
 https://www.youtube.com/watch?v=jXV1V33sT3U <br>
